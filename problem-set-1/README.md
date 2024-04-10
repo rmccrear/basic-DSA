@@ -16,7 +16,7 @@ There is a picture of the line in front of his shop.
 
 ![Que for shop](./img/queue-for-ice-cream.png)
 
-Let's think about what questions we might ask about this scenario and how we could answer them. 
+Let's think about what questions we might ask about this scenario and how we could answer them.
 
 Here are a few examples:
 
@@ -26,6 +26,6 @@ Here are a few examples:
 
 Can you think of a few more questions we could ask?
 
-Which questions are easist to answer? Which are harder? Why?
+Which questions are easiest to answer? Which are harder? Why?
 
 Finally, how might we represent the scenario in code? Can we create a program that will answer this question?
