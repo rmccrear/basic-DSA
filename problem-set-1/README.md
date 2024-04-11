@@ -12,7 +12,7 @@ Each customer will order one scoop of ice cream.
 
 The customers get in line at the back. When they get to the front, they get their ice cream and leave the line.
 
-There is a picture of the line in front of his shop.
+Here is a picture of the line in front of his shop.
 
 ![Que for shop](./img/queue-for-ice-cream.png)
 
@@ -24,8 +24,8 @@ Here are a few examples:
 2. How much revenue will John make from these customers.
 3. How many people want Chocolate Chunk?
 
-Can you think of a few more questions we could ask?
+Can you think of a few more questions we could ask about this scenario?
 
 Which questions are easiest to answer? Which are harder? Why?
 
-Finally, how might we represent the scenario in code? Can we create a program that will answer this question?
+Finally, how might we represent the scenario in code? Can we create a program that will answer one or more of the questions we thought of?
